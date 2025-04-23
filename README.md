@@ -1,4 +1,4 @@
-# RETO-02 (Aprendiendo como no morir en el intento en la programacion)
+# RETO-02 (Aprendiendo a como no morir en el intento en la programacion)
 VERIFICACION DE HERRAMIENTAS
 
 En este reto vamos a asegurarnos de que todas las herramientas necesarias para el curso están funcionando correctamente.
