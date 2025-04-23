@@ -27,7 +27,7 @@ me asegure que se interpretara con python y lo ejecute
 ![WhatsApp Image 2025-04-22 at 9 51 28 PM](https://github.com/user-attachments/assets/db7af9f2-e634-4437-ae0a-0f8667eb65f0)
 
 CASI MUERO EN EL INTENTO 
-FIN
+;FIN
 
 CORDIALMENTE: KARINA GUTIERREZ
 
