@@ -2,7 +2,9 @@
 VERIFICACION DE HERRAMIENTAS
 
 En este reto vamos a asegurarnos de que todas las herramientas necesarias para el curso están funcionando correctamente.
+
 CODIGO A EJECUTAR DE TRES MANERAS DISTINTAS
+
 if __name__ == "__main__" :
   print("Hola mundo")
   
