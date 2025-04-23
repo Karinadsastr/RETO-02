@@ -29,6 +29,6 @@ me asegure que se interpretara con python y lo ejecute
 CASI MUERO EN EL INTENTO 
 FIN
 
-COORDIALMENTE: KARINA GUTIERREZ
+CORDIALMENTE: KARINA GUTIERREZ
 
 
