@@ -9,15 +9,18 @@ if __name__ == "__main__" :
   print("Hola mundo")
   
 1. BLOC DE NOTAS
+   
 Cree un block de notas en donde pegue el código y lo guarde con el nombre de "KARINA.py"
 Luego abri el terminal manualmente en donde pegue la ubicacion del archivo y lo ejecute
 ![WhatsApp Image 2025-04-22 at 9 30 34 PM](https://github.com/user-attachments/assets/9688c571-3015-4014-b5cc-3daaeded2820)
 
-2. PYTHON
+3. PYTHON
+   
 Abri la aplicacion, pegue el codigo y lo ejecute
 ![WhatsApp Image 2025-04-22 at 9 35 30 PM](https://github.com/user-attachments/assets/bb5ee914-28c2-4aea-b780-d928fc5ac5c5)
 
-3. VSCODE
+5. VSCODE
+   
 Instale la aplicacion y los complementos necesarios
 Abri el archivo py ya guardado
 me asegure que se interpretara con python y lo ejecute
